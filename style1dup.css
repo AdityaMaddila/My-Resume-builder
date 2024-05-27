@@ -1,0 +1,69 @@
+#cv-form{
+	/* display:  none;*/
+
+}
+#cv-template1{
+	display: none;
+}
+.myimage1{
+	border-radius: 50%;
+	width: 200px;
+	height:  200px;
+
+}
+.background1{
+	background-color: floralwhite;
+
+}
+#cv-template2
+{
+	background-color: sandybrown;
+}
+#cv-template2{
+	display: none;
+}
+.printcv2{
+	border: 2px solid black;
+}
+.background3{
+	background-color: steelblue;
+}
+.myimage{
+	width: 200px;
+	height:  200px;
+}
+#cv-template3{
+	display: none;
+}
+#cv-template4{
+	display: none;
+	background-color: lightgoldenrodyellow ;
+}
+
+.row{
+	padding-top: 10px;
+	padding-bottom: 25px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px; 
+}
+.next{
+	border-radius: 20%;
+	background-color: rosybrown;
+	width: 100px;
+	height: 40px;
+}
+.nav{
+	background-color: mediumpurple;
+}
+.text{
+	padding-right: px;
+}
+#bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
